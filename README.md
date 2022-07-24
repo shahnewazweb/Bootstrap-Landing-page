@@ -1,5 +1,5 @@
 
-<h2>Landing page by bootstrap</h2>
+<h2>Bootstrap Landing Page</h2>
 
 I am a freelance WordPress developer. I am an expert on HTML, CSS, Jquery, javascript, PHP, Theme development, oxygen builder, Elementor pro, Divi theme, and Astra theme
 
